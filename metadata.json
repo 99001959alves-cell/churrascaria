@@ -1,0 +1,6 @@
+{
+  "name": "Fogo Nobre — Churrascaria Brasileira",
+  "description": "Churrascaria brasileira de alto padrão com cortes nobres na brasa, acompanhamentos artesanais, ambiente acolhedor e reservas pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
